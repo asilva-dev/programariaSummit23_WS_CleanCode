@@ -5,7 +5,7 @@
 
 ## `Sobre o Workshop`
 
-Bem-vindo ao Workshop Clean Code - Friends Edition! Neste workshop, exploraremos os princípios de Clean Code enquanto fazemos referência à série de TV "Friends". Aprenda a escrever código limpo e de qualidade enquanto se diverte.
+Bem-vindo ao Workshop Clean Code - Afastando o "Smelly Code"- Friends Edition! Neste workshop, exploraremos os princípios de Clean Code enquanto fazemos referência à série de TV "Friends". Aprenda a escrever código limpo e de qualidade enquanto se diverte.
 
 ## Pré-requisitos
 
