@@ -45,8 +45,10 @@ npm test
 ```
 
 ## Slides da Apresentação
+<div style="text-align:center;">
+  - [link do Workshop](https://docs.google.com/presentation/d/1eZUmA9K7hCoZWVu2xI7jFYomGq5V2Sl7tglXcePQSRc/edit?usp=sharing)
+</div>
 
-- [link do Workshop](https://docs.google.com/presentation/d/1eZUmA9K7hCoZWVu2xI7jFYomGq5V2Sl7tglXcePQSRc/edit?usp=sharing)
 
 ---
 
