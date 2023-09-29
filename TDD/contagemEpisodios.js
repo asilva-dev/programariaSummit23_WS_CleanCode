@@ -1,12 +1,12 @@
 function contarEpisodiosPorPersonagem(episodios) {
-    const contagem = {};
+    const contagemDeAparicoesPorPersonagem = {};
     episodios.forEach((episodio) => {
-      if (!contagem[episodio.nome]) {
-        contagem[episodio.nome] = 0;
+      if (!contagemDeAparicoesPorPersonagem[episodio.nome]) {
+        contagemDeAparicoesPorPersonagem[episodio.nome] = 0;
       }
-      contagem[episodio.nome] += episodio.apareceu;
+      contagemDeAparicoesPorPersonagem[episodio.nome] += episodio.apareceu;
     });
-    return contagem;
+    return contagemDeAparicoesPorPersonagem;
   }
   
   module.exports = contarEpisodiosPorPersonagem;
