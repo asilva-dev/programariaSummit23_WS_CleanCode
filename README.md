@@ -17,14 +17,14 @@ Antes de começar, certifique-se de ter o seguinte instalado em seu ambiente de 
 ## Configuração
 
 1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/workshop-clean-code-friends.git
-
+```
+git clone https://github.com/seu-usuario/workshop-clean-code-friends.git
+```
 
 2. Navegue até o diretório do projeto:
-
+```
 cd workshop-clean-code-friends
+```
 
 3. Instale as dependências do projeto (incluindo o Jest):
 ```
@@ -44,7 +44,7 @@ node introducaoPersonagens.js
 npm test
 ```
 
-## `Slides da Apresentação
+## Slides da Apresentação
 
 - [link do Workshop](https://docs.google.com/presentation/d/1eZUmA9K7hCoZWVu2xI7jFYomGq5V2Sl7tglXcePQSRc/edit?usp=sharing)
 
