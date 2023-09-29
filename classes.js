@@ -7,18 +7,17 @@ class PersonagemFriendsRuim {
     }
   
     saudacaoRoss() {
-      return `Olá, eu sou ${this.nome} de Friends. Tenho ${this.idade} 
-      anos e trabalho como ${this.profissao}.`;
+      return `Olá, eu sou ${this.nome} de Friends. Tenho ${this.idade} anos e trabalho como ${this.profissao}.`;
     }
   
     saudacaoRachel() {
-      return `Olá, eu sou ${this.nome} de Friends. Tenho ${this.idade} anos e
-       trabalho como ${this.profissao}.`;
+      return `Olá, eu sou ${this.nome} de Friends. Tenho ${this.idade} anos e trabalho como ${this.profissao}.`;
     }
 }
   
 // Uso da classe com código ruim
 const personagemRuim = new PersonagemFriendsRuim("Ross", 32, "Paleontólogo");
+const personagemRuim2 = new PersonagemFriendsRuim("Rachel", 29, "Balconista");
 
 console.log(personagemRuim.saudacaoRoss()); 
-console.log(personagemRuim.saudacaoRachel());
+console.log(personagemRuim2.saudacaoRachel());
