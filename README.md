@@ -1,11 +1,6 @@
 # Programaria Summit 2023 | [Clean Code] - Afastando o “Smelly Code” 🚀
 
-|          |
-|:--------:|
-| [![image](https://media.giphy.com/media/FLAUgfNMvFhXa/giphy.gif) |
-
-
-
+[![image](https://media.giphy.com/media/FLAUgfNMvFhXa/giphy.gif) 
 
 ## `Sobre o Workshop`
 
