@@ -11,7 +11,7 @@ var pivotScene = "Cena icônica da série Friends";
 const iconicScene = "Pivot! - Cena icônica da série Friends";
 
 // Antes
-var joeyHowYouDoin = "Frase famosa do personagem Joey";
+var desperateForLove = "Frase famosa do personagem Chandler"
 
 // Depois
 const famousPhrase = "How you doin'? - Frase famosa do personagem Joey";
